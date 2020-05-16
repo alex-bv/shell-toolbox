@@ -7,7 +7,7 @@ The following scripts are available:
 |-----------|--------------|-----|
 | eraser.cmd | Free-space secure erase tool. | Windows |
 | formatter.cmd | Secure drive formatter tool. | Windows |
-| metadefender-scanner.ps1 | Metadefender REST-API scan tool. | Windows |
+| metadefender-scanner.ps1 | Metadefender file scan tool. | Windows |
 | pip-updater.sh | Python-pip autoupdate tool. | Linux |
 
 # GitHub Gist reference:
